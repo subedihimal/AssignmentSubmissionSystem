@@ -20,7 +20,7 @@ HTML, PHP, JavaScript, CSS, MySQL
 - Deadlines for Assignments
 
 
-## Screenshots
+## Screenshots(OF major Components)
 
 ![Login](https://github.com/user-attachments/assets/cf0da9d4-a975-42ee-8b0e-a0cbb32af72f)
 ![adminportal](https://github.com/user-attachments/assets/41bb7bfe-f693-4cf9-9e1e-e3776a0eed76)
