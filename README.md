@@ -5,7 +5,7 @@ A web based application that allows students to submit assignments, and teachers
 
 
 
-## 🛠 Tools Used
+## 🛠 Languages Used
 HTML, PHP, JavaScript, CSS, MySQL
 
 
